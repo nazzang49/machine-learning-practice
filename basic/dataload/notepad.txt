@@ -1,0 +1,6 @@
+"methods of data load"
+
+1) log file
+2) dataset file
+3) database
+4) sources
